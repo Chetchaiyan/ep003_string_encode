@@ -1,4 +1,4 @@
-# EP.2 String Encode
+# EP.3 String Encode
 
 Write a program that takes a string and encode it that the amount of symbols
 would be represented by interger and the symbol.
